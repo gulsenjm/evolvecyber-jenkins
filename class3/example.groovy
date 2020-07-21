@@ -1,4 +1,4 @@
-def first_name = "Frank" // String Type 
+def first_name = "Gulshen" // String Type 
 
 def names = ["Anna", "Nastya", "Vova" ] // List of Strings
 
